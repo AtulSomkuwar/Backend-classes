@@ -39,3 +39,5 @@ https://d3dyfaf3iutrxo.cloudfront.net/newton-dyte-recordings/zhhquy-wumnzk_16813
 10th Nodejs class          Date:14th April
 Installing MongoDB, Introducing MongoDB, Connecting Express App to MongoDB (Comp ...
 https://d3dyfaf3iutrxo.cloudfront.net/newton-dyte-recordings/muinjh-nfzkzy_1681479210567.mp4
+
+11th Nodejs class          Date:14th April
